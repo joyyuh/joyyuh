@@ -1,4 +1,3 @@
-- hey, i'm joy! currently new to github
 - learning swift & java ; hoping to learn lua & relearn python
 - 2024 resolution of cooking on aoc (getting past day 7 ☠)
 
